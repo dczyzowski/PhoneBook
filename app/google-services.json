@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "257869646748",
+    "firebase_url": "https://phonebook-9c19a.firebaseio.com",
+    "project_id": "phonebook-9c19a",
+    "storage_bucket": "phonebook-9c19a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257869646748:android:150ee13b5b6b93e4",
+        "android_client_info": {
+          "package_name": "com.agh.phonebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257869646748-hmtl0pagjisu0ncc8q4i7pvg0eir7j26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agh.phonebook",
+            "certificate_hash": "c72dca44c6e0e0c533bde762029844cab3c25252"
+          }
+        },
+        {
+          "client_id": "257869646748-gdcf3k9odj5up6su5n4iij4oedi4caf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHZGmUX1igbraBBkbifUVsvX_b9Q-7duI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257869646748-gdcf3k9odj5up6su5n4iij4oedi4caf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
